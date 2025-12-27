@@ -2,7 +2,7 @@
 
 > A beautiful, cross-platform emulation frontend heavily inspired by iiSU, built entirely in pure C++ with an initial focus on Nintendo Switch homebrew.
 
-![Status](https://img.shields.io/badge/status-alpha-orange) ![Platform](https://img.shields.io/badge/platform-Switch%20%7C%20PC%20%7C%20Mac-red) ![License](https://img.shields.io/badge/license-Closed%20Source-lightgrey)
+![Status](https://img.shields.io/badge/status-alpha-orange) ![Platform](https://img.shields.io/badge/platform-Switch-red) ![License](https://img.shields.io/badge/license-Closed%20Source-lightgrey)
 
 ## What is tiicu?
 
