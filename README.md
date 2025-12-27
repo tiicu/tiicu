@@ -20,7 +20,7 @@ This project draws inspiration from the iiSU frontend concept, aiming to recreat
 -   **Automatic Game Organization** - Intelligent categorization based on No-Intro naming conventions
 -   **Emulator Integration** - Initial cores already implemented and in testing
 -   **Controller-First Design** - Built for handheld and controller gameplay (touch is not a priority)
-- -   **Custom Home Screen** - Add game shortcuts
+-   **Custom Home Screen** - Add game shortcuts
 
 ### In Development
 -   **Enchanced Home Screen** - Add widgets, animated GIFs, and more
