@@ -1,3 +1,4 @@
+
 # tiicu
 
 > A beautiful, cross-platform emulation frontend heavily inspired by iiSU, built entirely in pure C++ with an initial focus on Nintendo Switch homebrew.
@@ -7,6 +8,12 @@
 ## What is tiicu?
 
 **tiicu** is an emulation frontend that organizes your emulators and games in a visually stunning, intuitive interface. Built with pure C++, it's designed to be fully portable across platforms.
+
+**Homescreen**
+![enter image description here](https://github.com/tiicu/tiicu/blob/main/images/2025122804344400-B6CE40797459B0890BF7CEF68A4CE587.jpg?raw=true)
+
+**Launcher Screen**
+![enter image description here](https://github.com/tiicu/tiicu/blob/main/images/2025122805090400-B6CE40797459B0890BF7CEF68A4CE587.jpg?raw=true)
 
 ### Inspired by iiSU
 
