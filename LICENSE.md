@@ -2,7 +2,7 @@
 
 ## Proprietary Frontend License
 
-Copyright (c) 2025 tiicu / Dan
+Copyright (c) 2025 tiicu 
 
 The tiicu frontend application (excluding emulator cores and third-party libraries) is proprietary software. All rights reserved.
 
